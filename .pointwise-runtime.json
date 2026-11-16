@@ -4,11 +4,14 @@
   "setup": [],
   "verify": [
     "python3",
-    "checks.py"
+    "-I",
+    "qa.py",
+    "verify"
   ],
   "demo": [
     "python3",
-    "pipeline.py",
-    "--sample"
+    "-I",
+    "qa.py",
+    "demo"
   ]
 }
