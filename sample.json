@@ -1,0 +1,7 @@
+{
+  "segments": [
+    {"start": "10", "end": "12", "raw_start": "0", "raw_end": "2", "calibration": ["0", "1", "0", "0"]},
+    {"start": "12", "end": "14", "raw_start": "2", "raw_end": "0", "calibration": ["0", "1", "0", "0"]}
+  ],
+  "threshold": "1"
+}
